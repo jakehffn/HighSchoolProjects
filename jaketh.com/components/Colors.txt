@@ -1,0 +1,9 @@
+var colorPalette = {
+    mainColor1: 'rgb(71, 84, 232)',
+    mainColor2: 'rgb(183, 71, 232)',
+    accentColor1: 'rgb(68, 75, 76)',
+    accentColor2: 'rgb(39, 42, 43)',
+    filterColor1: 'rgba(71, 84, 232, 0.09)',
+    textColor1: 'white',
+    textColor2: 'rgba(68, 75, 76, 0.0)'
+}
